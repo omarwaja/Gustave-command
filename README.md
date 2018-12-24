@@ -1,5 +1,5 @@
 # Gustave Fullstack test 
-+ C'est un projet fullstack permet de visualiser une liste de commandes saisie à partir d'un formulaire avec la possibilité d'accepter ou refuser chaque commande
++ C'est un projet fullstack qui permet de visualiser une liste de commandes saisie à partir d'un formulaire avec la possibilité d'accepter ou refuser chaque commande
 + Le projet est realisé avec **ExpressJs** en backend et **ReactJs** en frontend ainsi que **mongodb** pour le stackage.
 + Le projet est divisé en deux parties (deux sous repertoires):
 - Le repertoire Gustave_dashboard_api qui contient le code de notre api.
