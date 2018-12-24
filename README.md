@@ -1,5 +1,8 @@
 # Gustave Fullstack test 
 + C'est un projet fullstack qui permet de visualiser une liste de commandes saisie à partir d'un formulaire avec la possibilité d'accepter ou refuser chaque commande
++ L'application est hébergé sur Héroku (demo):
++ https://gustave-command.herokuapp.com/ 
++ https://gustave-command.herokuapp.com/addcommand
 + Le projet est realisé avec **ExpressJs** en backend et **ReactJs** en frontend ainsi que **mongodb** pour le stackage.
 + Le projet est divisé en deux parties (deux sous repertoires):
 - Le repertoire Gustave_dashboard_api qui contient le code de notre api.
